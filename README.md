@@ -301,9 +301,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **Harsh**
 
-- GitHub: [@harsh](https://github.com/harsh)
-- LinkedIn: [Harsh](https://linkedin.com/in/harsh)
-- Email: harsh@example.com
+- GitHub: [harshrajput4343](https://github.com/harshrajput4343)
+- LinkedIn: [HarshKumar](https://www.linkedin.com/in/harshkumar4343/)
+- Email: heymselfharsh@example.com
 
 ---
 
